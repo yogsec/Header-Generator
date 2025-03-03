@@ -28,7 +28,7 @@ Header Generator is a simple yet powerful Python CLI tool that converts your tex
 ```bash
 git clone https://github.com/yogsec/header-generator.git
 cd header-generator
-pip3 install -r requirements.txt
+pip3 install art argparse
 ```
 
 ---
